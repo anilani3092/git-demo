@@ -4,4 +4,6 @@ This the first file in this repo
 
 ## Ipsum below
 
-I want to know how to wark in git
+I want to know how to wark in gi
+
+more ipsum
