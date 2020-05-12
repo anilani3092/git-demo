@@ -1,9 +1,8 @@
-Demo Git Repository 
+#Demo Git Repository 
 
 This the first file in this repo
 
-## Ipsum below
+## Website Contents
 
-I want to know how to wark in gi
-
-more ipsum
+1. index.html
+ 
